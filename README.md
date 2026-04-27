@@ -70,8 +70,8 @@ rag-project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone 
-cd rag-project
+git clone https://github.com/Jayanesh2494/RAG
+cd RAG
 ```
 
 ### 2️⃣ Create Virtual Environment
